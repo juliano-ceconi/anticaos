@@ -12,7 +12,7 @@ Guias completos no formato Markdown para leitura rápida direto na IDE ou no Git
 | Arquivo | Conteúdo |
 |---|---|
 | [`guia-introducao-antigravity-ide.md`](./conteudo/guia-introducao-antigravity-ide.md) | O que é o Antigravity IDE, como funciona a autonomia do agente e seus conceitos-chave. |
-| [`tutorial-instalacao-windows.md`](./conteudo/tutorial-instalacao-windows.md) | Guia visual passo a passo para baixar o aplicativo, configurar a chave de API e primeiros passos. |
+| [`tutorial-instalacao-windows.md`](./conteudo/tutorial-instalacao-windows.md) | Guia visual passo a passo para baixar o aplicativo, realizar o login com sua conta do Google e primeiros passos. |
 | [`guia-uso-basico-comandos.md`](./conteudo/guia-uso-basico-comandos.md) | Como usar o Chat, aprovar planos de implementação, gerenciar tarefas e revisar mudanças. |
 | [`integracao-governanca-okam.md`](./conteudo/integracao-governanca-okam.md) | Dica especial: como usar o **Okam** complementarmente para governar as regras e manter a Wiki OKF. |
 
