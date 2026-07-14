@@ -905,6 +905,16 @@ body {
     color: var(--color-text);
 }
 
+.doc-article a {
+    color: var(--color-accent-light);
+    text-decoration: underline;
+    transition: var(--transition);
+}
+
+.doc-article a:hover {
+    color: var(--color-primary-light);
+}
+
 /* Callout */
 .callout {
     background: var(--color-bg-card);
