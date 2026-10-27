@@ -11,7 +11,7 @@ Siga os passos na ordem abaixo e, em cerca de 15 minutos, você terá um assiste
 O Antigravity IDE é o programa principal — é ele que você vai abrir toda vez que quiser conversar com a IA.
 
 1. Abra o seu navegador de internet (pode ser o Chrome, Edge ou qualquer outro).
-2. Acesse a página oficial: [antigravity.google/download#antigravity-ide](https://antigravity.google/download#antigravity-ide)
+2. Acesse a página oficial: [antigravity.google/product/antigravity-ide](https://antigravity.google/product/antigravity-ide)
 3. Você verá um botão para baixar o arquivo de instalação para Windows. O nome do arquivo vai terminar em `.exe` (por exemplo: `antigravity-ide-setup.exe`). Clique nele para iniciar o download.
 4. Quando o download terminar, abra a pasta **Downloads** do seu computador (geralmente fica no Explorador de Arquivos, aquela pastinha amarela na barra de tarefas) e dê **dois cliques** no arquivo que você acabou de baixar.
 5. Uma janela de instalação vai aparecer na tela. Clique em **Próximo** (ou **Next**) em cada tela que aparecer, sem alterar nada, até chegar no botão **Instalar** (ou **Install**). Clique nele e aguarde a barra de progresso terminar.
